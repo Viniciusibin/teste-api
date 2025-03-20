@@ -17,6 +17,7 @@ Verificar se a API de cadastro de profissionais retorna o status 201 e o profiss
 3. Verificar se o corpo da resposta contém os dados do profissional cadastrado.
 
 ### Resultado Esperado
+
 - Status da resposta: `201 Created`.
 - Corpo da resposta: `{ "id": 1, "nome": "João Silva", "empresa": "Empresa A" }`.
 
